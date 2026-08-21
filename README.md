@@ -1,2 +1,2 @@
-# fire_detection
+# fire&smoke
 

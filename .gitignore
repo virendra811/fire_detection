@@ -1,0 +1,6 @@
+pycache/
+.env/
+venv/
+.streamlit/secrets.toml
+large datasets/
+myenv/
